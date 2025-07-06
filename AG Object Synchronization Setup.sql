@@ -1,4 +1,7 @@
+/*
+I believe this is code written by Tom Willwerth while he was a consultant at StraightPathSQL.
 
+*/
 --Create tables for AG synchronization processes
 
 USE [DBA]

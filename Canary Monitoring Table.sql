@@ -2,6 +2,8 @@
 
 The secondary database must be readable in order to check values on the secondary to deermine latency and alert on it if you want that
 
+This idea of the canary table and how it is set up is from Brent Ozar.
+
 */
 USE HelpDesk;
 

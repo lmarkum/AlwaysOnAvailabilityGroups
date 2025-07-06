@@ -11,5 +11,5 @@ END;
 
 
 --another method, which checks a certain database name and not the AG Name
-SELECT sys.fn_hadr_is_primary_replica ('JitBitHelpDesk');  
+SELECT sys.fn_hadr_is_primary_replica ('SomeDBThatShouldAlwaysBeInTheAG');  
 GO  
